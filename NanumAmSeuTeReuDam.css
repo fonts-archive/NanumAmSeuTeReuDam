@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumAmSeuTeReuDam';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumAmSeuTeReuDam/NanumAmSeuTeReuDam.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumAmSeuTeReuDam/NanumAmSeuTeReuDam.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumAmSeuTeReuDam/NanumAmSeuTeReuDam.ttf') format('truetype');
+}
